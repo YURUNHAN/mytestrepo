@@ -1,0 +1,3 @@
+/home/aunitily/CPTS-360-master/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/aunitily/CPTS-360-master/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/aunitily/CPTS-360-master/cmake-build-debug/CMakeFiles/CPTS_360_master.dir
