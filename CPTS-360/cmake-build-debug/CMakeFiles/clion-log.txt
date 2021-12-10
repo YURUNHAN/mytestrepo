@@ -1,0 +1,10 @@
+C:\Users\huqiang\AppData\Local\JetBrains\CLion2020.3\cygwin_cmake\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /cygdrive/c/huqiang/桌面/CPTS-360-master(1)(1)/CPTS-360-master
+CMake Error: The source directory "/cygdrive/c/huqiang/妗岄潰/CPTS-360-master(1)(1)/CPTS-360-master/cmake-build-debug/"/cygdrive/c/huqiang/妗岄潰/CPTS-360-master(1)(1)/CPTS-360-master"" does not exist.
+Specify --help for usage, or press the help button on the CMake GUI.
+
+CMake Error:
+  ------------------------------------------------------------------------------------
+  Selected CMake might be incompatible with the Cygwin environment.
+  In order to run on Cygwin, CMake needs to be specially compiled.
+  Please select either CMake bundled with CLion or CMake from the Cygwin installation.
+  ------------------------------------------------------------------------------------
